@@ -1,9 +1,9 @@
 /**
- * @description Takes two arguments, `a` and `b`, and returns the sum of these two numbers.
+ * @description Takes two parameters, `a` and `b`, and returns their sum.
  *
- * @param {number} a - A required input value to be added to `b`.
+ * @param {number} a - Used as one of the operands for addition.
  *
- * @param {number} b - Added to the `a` parameter.
+ * @param {number} b - Added to `a` to calculate the result.
  *
  * @returns {number} The sum of two numbers.
  */
