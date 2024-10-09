@@ -1,11 +1,12 @@
 /**
- * @description Takes two arguments, `a` and `b`, and returns the sum of these two numbers.
+ * @description Accepts two parameters, `a` and `b`, and returns their sum. It is a
+ * basic arithmetic operation that combines two numbers.
  *
- * @param {number} a - A required input value to be added to `b`.
+ * @param {number} a - Used as one of the numbers to be added together.
  *
- * @param {number} b - Added to the `a` parameter.
+ * @param {number} b - Used in the calculation of the sum.
  *
- * @returns {number} The sum of two numbers.
+ * @returns {number} The sum of the two input values.
  */
 
 function addNumbers(a, b) {
